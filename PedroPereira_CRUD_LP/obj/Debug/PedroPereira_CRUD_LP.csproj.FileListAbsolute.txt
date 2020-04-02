@@ -1,0 +1,13 @@
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\bin\Debug\PedroPereira_CRUD_LP.exe.config
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\bin\Debug\PedroPereira_CRUD_LP.exe
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\bin\Debug\PedroPereira_CRUD_LP.pdb
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\obj\Debug\PedroPereira_CRUD_LP.csprojAssemblyReference.cache
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\obj\Debug\PedroPereira_CRUD_LP.Home.resources
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\obj\Debug\PedroPereira_CRUD_LP.Properties.Resources.resources
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\obj\Debug\PedroPereira_CRUD_LP.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\obj\Debug\PedroPereira_CRUD_LP.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\obj\Debug\PedroPereira_CRUD_LP.exe
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\obj\Debug\PedroPereira_CRUD_LP.pdb
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\obj\Debug\PedroPereira_CRUD_LP.CRUD.resources
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\bin\Debug\DBLP.mdf
+C:\Users\henry\source\repos\PedroPereira_CRUD_LP\PedroPereira_CRUD_LP\bin\Debug\DBLP_log.ldf
